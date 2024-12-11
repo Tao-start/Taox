@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: OCR A Std, monospace;
+}
+h2{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    font-family: OCR A Std, monospace ;
+}
+h3{
+    text-align: center;
+    font-family:  OCR A Std, monospace ;
+}
+a{
+    color : black;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    font-family: OCR A Std, monospace;
+}
+span{
+    background-color: darkgray;
+}

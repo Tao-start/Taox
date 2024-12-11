@@ -1,0 +1,25 @@
+body{
+    background-image: url(image/fond_ddlc.png);
+}
+h1{
+     text-align: center;
+}
+h3{
+    color : darkred;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+p1{
+    font-size: large;
+}
+p{
+    font-size: large;
+}
+a{
+    color : pink;
+}
+span{
+    background-color: rgba(255, 231, 235, 0.783);
+}

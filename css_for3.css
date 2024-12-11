@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+body{
+    background-color: antiquewhite;
+}
+div{
+    text-align: center;
+}
+p{
+    font-size: large;
+}
+span{
+    background-color: rgb(217, 177, 124);
+}
+a{
+    color : rgb(83, 83, 83);
+}

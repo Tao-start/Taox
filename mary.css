@@ -1,0 +1,18 @@
+div{
+    text-align: right;
+}
+body{ 
+    background-color: black;
+}
+h1{
+    color : darkred; 
+    text-align: center;
+    font-size: larger;
+}
+h3{
+    color: darkred;
+    text-align: center;
+}
+a{
+    color : red;
+}
